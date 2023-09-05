@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/kZ68sjd.png"/>
 
 <h1 align=center>
-  Hi! The name is Johny!
+  Hi! Call me Johny!
   <h5 align=center>A passionate fullstack developer from Brazil</h5>
 </h1>
 
