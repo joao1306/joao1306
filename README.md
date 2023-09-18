@@ -37,8 +37,7 @@
  
 <div align=center> 
   <h1>✉️ Contact ✉️</h1><br>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-mansur-705463255" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=blue&color=black" target="_blank"></a> 
+  <a href="www.linkedin.com/in/mansur1306" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=blue&color=black" target="_blank"></a> 
   <a href = "mailto:joaovictor1306@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red&color=black" target="_blank"></a>
   <a href="https://www.instagram.com/jao_1306" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=pink&color=black" target="_blank"></a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=darkBlue&color=black" target="_blank"></a> 
 </div>
