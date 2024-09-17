@@ -14,7 +14,6 @@
  
  🌱 I’m currently learning **React, NodeJS, Angular, MongoDB**
 
- ⚡ Fun fact **Most of the stars in the skies are dead.**
  
  </div>
 
